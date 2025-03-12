@@ -1,0 +1,28 @@
+# Компилируемые файлы
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+
+# Файлы сборки
+/build/
+bin/
+obj/
+
+# Файлы IDE
+*.vs/
+.vscode/
+*.code-workspace
+.idea/
+*.sln
+*.vcxproj*
+*.ncb
+*.user
+*.DS_Store
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
